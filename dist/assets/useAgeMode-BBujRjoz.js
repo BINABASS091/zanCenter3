@@ -1,0 +1,1 @@
+import{u as e,l as o}from"./index-BqzLFXbw.js";function r(){const r=e(e=>e.ageMode),a=e(e=>e.setAgeMode),t=o(r||"creator");return{ageMode:r||"creator",mode:t,setAgeMode:a,isExplorer:"explorer"===r,isCreator:"creator"===r||!r,isInnovator:"innovator"===r,uiScale:t.uiScale,codingLevel:t.codingLevel}}export{r as u};
